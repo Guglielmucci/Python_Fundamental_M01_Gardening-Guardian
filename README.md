@@ -21,4 +21,4 @@ Each exercise builds a component of your smart agriculture data platform, progre
 from basic sensor validation to comprehensive agricultural monitoring systems
 
 > [!WARNING]
-> This Exam was closed on 2026-03-25. The project subjects may have changed
+> This Exam was closed on 2026-03-25. The project subjects may have changed.
